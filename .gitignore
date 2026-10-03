@@ -1,0 +1,13 @@
+node_modules
+
+# Environment files
+.env
+server/.env
+client/.env
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
